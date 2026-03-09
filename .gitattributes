@@ -1,0 +1,15 @@
+* text=auto
+
+# source code
+*.ts text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf
+
+# windows scripts
+*.bat text eol=crlf
+
+# linux scripts
+*.sh text eol=lf
